@@ -1,5 +1,7 @@
-# Developer portal (staging scaffold)
+# Northwind Support Center — Developer Portal
 
-This repository is a staging scaffold for the Northwind Support Center developer portal.
+Clarity at every click.
 
-It is awaiting promotion during the documentation consolidation cycle.
+The developer portal brings together onboarding guides, API references and self-service tooling for teams building on the Northwind Support Center platform.
+
+Support contact: care@northwind-support.example
